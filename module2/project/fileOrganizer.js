@@ -6,6 +6,7 @@ let folderPath= process.argv[2]; //returns an array ... on 0th index: returns pa
 // console.log(inputArray);
 // //["pathToNode", 'pathToFile', "input_passes_in_terminal"]
 //nothing has changed
+//this file is modified
 let extensions = {
     Audio : ['.mp3'],
     Video : ['.mp4', '.mkv'],
