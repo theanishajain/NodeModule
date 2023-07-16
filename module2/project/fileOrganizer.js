@@ -5,6 +5,7 @@ let folderPath= process.argv[2]; //returns an array ... on 0th index: returns pa
 //  on 1st index it returns : the path of the same file you are working on
 // console.log(inputArray);
 // //["pathToNode", 'pathToFile', "input_passes_in_terminal"]
+//nothing has changed
 let extensions = {
     Audio : ['.mp3'],
     Video : ['.mp4', '.mkv'],
